@@ -41,7 +41,7 @@ indicates that in round 6 the home team team_4 plays versus team_3. You will nee
 
 # Participation
 
-In order for you to participate, just clone the current repo the fill out the *test.csv* files in the leagues directories.
+In order for you to participate, just fork the current repo the fill out the *test.csv* files in the leagues directories.
 We will rank the submissions on 2 categories:
 - Winners prediction (i.e accuracy in predicting the winner in each game)
 - Total points in game (i.e accuracy in predicting how many points will be scored in total in each game)
