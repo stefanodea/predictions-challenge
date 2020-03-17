@@ -2,7 +2,7 @@
 
 # Intro
 
-Being stuck in the house due to COVID-19 and without any (or very few) basketball games, 
+Being stuck in the house and without any (or very few) basketball games, 
 we thought it might be fun to share some of our data we use in https://newstats.eu and challenge you to give your
 predictions on historical data.
 
