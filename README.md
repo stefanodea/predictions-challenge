@@ -49,4 +49,4 @@ We will rank the submissions on 2 categories:
 We will publish the winners and you will get a chance to present your approach.
 You might have questions, comments, so feel free to reach out on our twitter https://twitter.com/NewstatsEu
 
-***Deadline: 29 March (tentative)***
+**Deadline: 29 March (tentative)**
